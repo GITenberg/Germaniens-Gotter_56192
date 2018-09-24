@@ -1,0 +1,31 @@
+_repo: Germaniens-Gotter_56192
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Hartmann, Paul
+    gutenberg_agent_id: '48714'
+    url: http://www.gutenberg.org/2009/agents/48714
+  - agent_name: Engels, Robert
+    gutenberg_agent_id: '48713'
+    url: http://www.gutenberg.org/2009/agents/48713
+creator:
+  author:
+    agent_name: Herzog, Rudolf
+    birthdate: 1869
+    deathdate: 1943
+    gutenberg_agent_id: '25181'
+    url: http://www.gutenberg.org/2009/agents/25181
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Herzog
+description: ''
+gutenberg_issued: '2017-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56192'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Germaniens Götter
+url: http://www.gutenberg.org/ebooks/56192
