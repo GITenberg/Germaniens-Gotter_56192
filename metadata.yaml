@@ -1,5 +1,5 @@
 _repo: Germaniens-Gotter_56192
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Hartmann, Paul
@@ -8,6 +8,9 @@ contributor:
   - agent_name: Engels, Robert
     gutenberg_agent_id: '48713'
     url: http://www.gutenberg.org/2009/agents/48713
+covers:
+- cover_type: archival
+  image_path: 56192-h/images/cover.jpg
 creator:
   author:
     agent_name: Herzog, Rudolf
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25181
     wikipedia: http://de.wikipedia.org/wiki/Rudolf_Herzog
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56192#Germaniens-Gotter
 gutenberg_issued: '2017-12-17'
 gutenberg_type: Text
 identifiers:
